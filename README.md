@@ -22,8 +22,15 @@ Now I know what you are thinking, /give is shorter, however, when players attemp
 
 You can also run this command via console :D.
 
+# Permissions
+/gm - shortcommands.cm
+
+/giveitem = shortcommands.giveitem
+
+Both permissions above are defaultly set to op.
+
 # Notes
-- /gamemode and /give will still be usable.
+- /gamemode and /give will still be usable so realistically by installing my plugin, you don't lose out on anything.
 - Currently, messages are not configurable however that is a planned feature.
 
 # Contact me 
