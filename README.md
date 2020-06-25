@@ -36,3 +36,7 @@ Both permissions above are defaultly set to op.
 # Contact me 
 - If you have any suggestions or need any assistance, message me on discord TPE#3107.
 
+[![](https://poggit.pmmp.io/shield.state/ShortCommands)](https://poggit.pmmp.io/p/ShortCommands)
+<a href="https://poggit.pmmp.io/p/ShortCommands"><img src="https://poggit.pmmp.io/shield.state/ShortCommands"></a>
+
+
