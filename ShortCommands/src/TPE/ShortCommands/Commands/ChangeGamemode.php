@@ -49,9 +49,9 @@ class ChangeGamemode extends PluginCommand {
             $sender->sendMessage(TextFormat::RED . "Game mode change for " . $target->getName() . "failed!");
         } else {
             if($target === $sender) {
-                $target->sendMessage("§l§2..§e[§dGM§e]§2..§r§f You have changed your gamemode to " . Server::getGamemodeString($gameMode));
+                $target->sendMessage("You have changed your gamemode to " . Server::getGamemodeString($gameMode));
             } else {
-                $target->sendMessage("§l§2..§e[§dGMS§e]§2..§r§f Your gamemode has been changed to " . Server::getGamemodeString($gameMode) . "by " . $sender->getName());
+                $target->sendMessage("Your gamemode has been changed to " . Server::getGamemodeString($gameMode) . "by " . $sender->getName());
             }
         }
         return true;
