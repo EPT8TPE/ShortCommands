@@ -11,8 +11,8 @@ class Main extends PluginBase implements Listener {
 
     public function onEnable() {
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
-        $this->getServer()->getCommandMap()->register("gm", new ChangeGamemode("gm", $this));
-        $this->getServer()->getCommandMap()->register("giveitem", new GiveItem("giveitem", $this));
+        $this->getServer()->getCommandMap()->register("ShortCommands", new ChangeGamemode("gm", $this));
+        $this->getServer()->getCommandMap()->register("ShortCommands", new GiveItem("giveitem", $this));
 
     }
 }
