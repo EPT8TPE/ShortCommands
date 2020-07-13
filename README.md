@@ -18,7 +18,8 @@ To set the gamemode of somebody else run /gm (number/gamemode) (player name).
 This command can also be ran via console :D.
 
 - /giveitem (player) (itemid) (count)
-Now I know what you are thinking, /give is shorter, however, when players attempt to give items through crates/relics etc with /give, it shows in chat to all players because of a certain message set in pocketmine which sometimes is inconvenient, if you use /giveitem in crates etc or just generally, it will not show up in chat which in my opinion is good.
+Now I know what you are thinking, /give is shorter, however, when players attempt to give items through crates/relics etc with /give, it shows in chat to all players because of a certain message set in pocketmine which sometimes is inconvenient, 
+if you use /giveitem in crates etc or just generally, it will not show up in chat which in my opinion is good.
 
 You can also run this command via console :D.
 
